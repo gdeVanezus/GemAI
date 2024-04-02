@@ -18,6 +18,6 @@ Rename env.example to .env and add your discord bot token.
 ## Starting
 
 ```bash
-python -m pip install disnake g4f sydney-py 
+python main.py
 ```
 
